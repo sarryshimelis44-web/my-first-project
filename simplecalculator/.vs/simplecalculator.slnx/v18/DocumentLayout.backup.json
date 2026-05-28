@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mery\\Desktop\\IT 3year\\simplecalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B829EA2-4E34-3EC4-B38C-DA1374B82DF5}|simplecalculator\\simplecalculator.vbproj|c:\\users\\mery\\desktop\\it 3year\\simplecalculator\\simplecalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3B829EA2-4E34-3EC4-B38C-DA1374B82DF5}|simplecalculator\\simplecalculator.vbproj|solutionrelative:simplecalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B829EA2-4E34-3EC4-B38C-DA1374B82DF5}|simplecalculator\\simplecalculator.vbproj|c:\\users\\mery\\desktop\\it 3year\\simplecalculator\\simplecalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3B829EA2-4E34-3EC4-B38C-DA1374B82DF5}|simplecalculator\\simplecalculator.vbproj|solutionrelative:simplecalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B829EA2-4E34-3EC4-B38C-DA1374B82DF5}|simplecalculator\\simplecalculator.vbproj|c:\\users\\mery\\desktop\\it 3year\\simplecalculator\\simplecalculator\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3B829EA2-4E34-3EC4-B38C-DA1374B82DF5}|simplecalculator\\simplecalculator.vbproj|solutionrelative:simplecalculator\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\mery\\Desktop\\IT 3year\\simplecalculator\\simplecalculator\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "simplecalculator\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\mery\\Desktop\\IT 3year\\simplecalculator\\simplecalculator\\Form1.Designer.vb",
+              "RelativeToolTip": "simplecalculator\\Form1.Designer.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T20:56:33.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\mery\\Desktop\\IT 3year\\simplecalculator\\simplecalculator\\Form1.vb",
+              "RelativeDocumentMoniker": "simplecalculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\mery\\Desktop\\IT 3year\\simplecalculator\\simplecalculator\\Form1.vb",
+              "RelativeToolTip": "simplecalculator\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T20:55:42.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\mery\\Desktop\\IT 3year\\simplecalculator\\simplecalculator\\Form1.vb",
+              "RelativeDocumentMoniker": "simplecalculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\mery\\Desktop\\IT 3year\\simplecalculator\\simplecalculator\\Form1.vb [Design]",
+              "RelativeToolTip": "simplecalculator\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T20:23:21.47Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

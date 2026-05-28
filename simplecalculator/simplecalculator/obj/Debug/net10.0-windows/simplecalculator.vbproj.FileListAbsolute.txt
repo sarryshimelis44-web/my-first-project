@@ -1,0 +1,16 @@
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\bin\Debug\net10.0-windows\simplecalculator.exe
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\bin\Debug\net10.0-windows\simplecalculator.deps.json
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\bin\Debug\net10.0-windows\simplecalculator.runtimeconfig.json
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\bin\Debug\net10.0-windows\simplecalculator.dll
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\bin\Debug\net10.0-windows\simplecalculator.pdb
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.Form1.resources
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.vbproj.GenerateResource.cache
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.AssemblyInfoInputs.cache
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.AssemblyInfo.vb
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.vbproj.CoreCompileInputs.cache
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.dll
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\refint\simplecalculator.dll
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.pdb
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\simplecalculator.genruntimeconfig.cache
+C:\Users\mery\Desktop\IT 3year\simplecalculator\simplecalculator\obj\Debug\net10.0-windows\ref\simplecalculator.dll

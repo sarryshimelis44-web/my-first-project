@@ -1,0 +1,16 @@
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\bin\Debug\net10.0-windows\RPSLS_Game.exe
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\bin\Debug\net10.0-windows\RPSLS_Game.deps.json
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\bin\Debug\net10.0-windows\RPSLS_Game.runtimeconfig.json
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\bin\Debug\net10.0-windows\RPSLS_Game.dll
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\bin\Debug\net10.0-windows\RPSLS_Game.pdb
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.Form1.resources
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.vbproj.GenerateResource.cache
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.AssemblyInfoInputs.cache
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.AssemblyInfo.vb
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.vbproj.CoreCompileInputs.cache
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.dll
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\refint\RPSLS_Game.dll
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.pdb
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\RPSLS_Game.genruntimeconfig.cache
+C:\Users\mery\Desktop\IT 3year\RPSLS_Game\RPSLS_Game\obj\Debug\net10.0-windows\ref\RPSLS_Game.dll
